@@ -1,4 +1,4 @@
-🚀 Features
+  Features
 	•	🌍 Convert between any currency in the world
 	•	⚡ Real-time exchange rates from free APIs
 	•	📱 Fully responsive UI
@@ -6,7 +6,7 @@
 	•	💡 Useful JavaScript functions such as rounding, API calls, and dynamic dropdowns
 
  Live
-  https://currency-converter-web-page.netlify.app/
+  https://currency-converter-sigma-opal.vercel.app/
 
   Tech Stack:
   HTML5
