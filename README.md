@@ -6,7 +6,7 @@
 	•	💡 Useful JavaScript functions such as rounding, API calls, and dynamic dropdowns
 
  Live
- https://currencyconverterwebpage.netlify.app/
+  https://currency-converter-web-page.netlify.app/
 
   Tech Stack:
   HTML5
