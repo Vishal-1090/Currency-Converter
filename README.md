@@ -20,8 +20,10 @@
   Currency-Converter/
 │── index.html
 │── style.css
-│── script.js
+│── app.js
+│── codes.js
 └── README.md
+
 
 Vishal Kumar
 Full Stack Developer (In Progress)
